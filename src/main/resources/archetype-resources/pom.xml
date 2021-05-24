@@ -34,8 +34,9 @@
     <version.jdk>1.8</version.jdk>
     <version.junit></version.junit>
     <project.build.sourceEncoding>${version.utf}</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>${version.utf}</project.reporting.outputEncoding>
     <maven.compiler.source>${version.jdk}</maven.compiler.source>
-    <maven.compiler.target>${version.jdk}}</maven.compiler.target>
+    <maven.compiler.target>${version.jdk}</maven.compiler.target>
   </properties>
   <dependencies>
     <dependency>
