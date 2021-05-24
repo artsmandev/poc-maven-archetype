@@ -32,7 +32,7 @@
   <properties>
     <version.utf>UTF-8</version.utf>
     <version.jdk>1.8</version.jdk>
-    <version.junit></version.junit>
+    <version.junit>4.13.2</version.junit>
     <project.build.sourceEncoding>${version.utf}</project.build.sourceEncoding>
     <project.reporting.outputEncoding>${version.utf}</project.reporting.outputEncoding>
     <maven.compiler.source>${version.jdk}</maven.compiler.source>
@@ -42,7 +42,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.13.2</version>
+      <version>${version.junit}</version>
       <scope>test</scope>
     </dependency>
   </dependencies>
