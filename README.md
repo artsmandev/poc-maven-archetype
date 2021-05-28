@@ -9,7 +9,7 @@ This is a simple PoC of Maven Archetype.
   git clone https://github.com/artsmandev/poc-maven-archetype.git
   ```
 
-* Install the archetpye local:
+* Install the archetype local:
 
   ```
   cd poc-maven-archetype.git &&\
